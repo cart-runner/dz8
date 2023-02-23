@@ -1,0 +1,15 @@
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\bin\Debug\net7.0\task53.exe
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\bin\Debug\net7.0\task53.deps.json
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\bin\Debug\net7.0\task53.runtimeconfig.json
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\bin\Debug\net7.0\task53.dll
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\bin\Debug\net7.0\task53.pdb
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.csproj.AssemblyReference.cache
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.AssemblyInfoInputs.cache
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.AssemblyInfo.cs
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.csproj.CoreCompileInputs.cache
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.dll
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\refint\task53.dll
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.pdb
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\task53.genruntimeconfig.cache
+C:\Users\apars\OneDrive\Рабочий стол\homework8\task53\obj\Debug\net7.0\ref\task53.dll
